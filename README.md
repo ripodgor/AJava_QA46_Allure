@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/oxuqa19kn7pv1dp5?svg=true)](https://ci.appveyor.com/project/ripodgor/ajava-qa46-allure)
-
 ## Задача №1: проснулись (Allure)
 
 В одном из предыдущих проектов [Patterns](https://github.com/netology-code/aqa-homeworks/tree/master/patterns) вы тестировали функциональности заказа карт.
